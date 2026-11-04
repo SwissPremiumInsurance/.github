@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="440" viewBox="0 0 1280 440" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Swiss Premium Insurance — L’assurance, plus claire.</title>
+  <desc id="desc">Bannière bleu nuit et rouge suisse, avec une illustration graphique des Alpes.</desc>
+  <defs>
+    <linearGradient id="sky" x1="730" y1="40" x2="1250" y2="440" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#242449"/>
+      <stop offset="1" stop-color="#17172E"/>
+    </linearGradient>
+    <clipPath id="frame"><rect width="1280" height="440" rx="20"/></clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="1280" height="440" fill="#1B1B38"/>
+    <rect x="732" width="548" height="440" fill="url(#sky)"/>
+    <path d="M732 0V440" stroke="#FFFFFF" stroke-opacity=".08"/>
+    <g stroke="#D7DCF0" stroke-width="1.25" stroke-linejoin="round">
+      <path d="M709 351L820 241L867 278L1000 111L1118 269L1161 218L1298 357" stroke-opacity=".35"/>
+      <path d="M713 370L821 265L869 300L1001 136L1116 289L1162 241L1299 380" stroke-opacity=".26"/>
+      <path d="M714 389L821 289L870 323L1001 161L1114 308L1164 264L1300 403" stroke-opacity=".21"/>
+      <path d="M715 408L821 313L871 346L1002 186L1113 328L1166 287L1301 426" stroke-opacity=".17"/>
+      <path d="M716 427L822 337L873 369L1003 212L1112 348L1168 311L1302 449" stroke-opacity=".13"/>
+      <path d="M717 446L822 361L874 392L1003 238L1111 369L1170 335L1303 472" stroke-opacity=".10"/>
+      <path d="M922 209L967 194L1000 111L1041 166L1077 215" stroke-opacity=".22"/>
+    </g>
+    <circle cx="1000" cy="111" r="5" fill="#F1233D"/>
+    <circle cx="1000" cy="111" r="13" stroke="#F1233D" stroke-opacity=".28"/>
+    <rect x="1168" y="46" width="58" height="58" rx="15" fill="#EC1635"/>
+    <path d="M1191 59H1203V69H1213V81H1203V91H1191V81H1181V69H1191V59Z" fill="white"/>
+    <text x="58" y="70" fill="#F7F6F2" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" letter-spacing="2.6">SWISS PREMIUM INSURANCE</text>
+    <rect x="58" y="102" width="44" height="4" rx="2" fill="#F1233D"/>
+    <text x="54" y="213" fill="#F7F6F2" font-family="Arial, Helvetica, sans-serif" font-size="76" font-weight="700" letter-spacing="-3">L’assurance,</text>
+    <text x="54" y="294" fill="#F7F6F2" font-family="Arial, Helvetica, sans-serif" font-size="76" font-weight="700" letter-spacing="-3">plus claire.</text>
+    <text x="58" y="369" fill="#BABBD2" font-family="Arial, Helvetica, sans-serif" font-size="17" letter-spacing="1.5">ASSURANCES · PRÉVOYANCE · CONSEIL</text>
+    <text x="780" y="395" fill="#B1B2CD" font-family="Arial, Helvetica, sans-serif" font-size="13" letter-spacing="2">GENÈVE · SUISSE</text>
+    <path d="M58 439H322" stroke="#F1233D" stroke-width="3"/>
+  </g>
+</svg>
