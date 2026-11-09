@@ -41,10 +41,6 @@ Assurance maladie, ménage, véhicule, prévoyance ou besoins professionnels : r
 ---
 
 <p>
-  <a href="https://www.swiss-premium-insurance.ch/"><img src="https://raw.githubusercontent.com/SwissPremiumInsurance/.github/main/assets/spi-jet-eau.png" alt="Swiss Premium Insurance — Jet d’eau de Genève" width="88"></a>
-</p>
-
-<p>
   <strong>Swiss Premium Insurance</strong><br>
   Genève, Suisse · <a href="mailto:contact@sp-insurance.ch">contact@sp-insurance.ch</a><br>
   <sub>Insurance advice and digital services, from Geneva.</sub>
