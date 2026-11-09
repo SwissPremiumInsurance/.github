@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SwissPremiumInsurance/.github/main/assets/spi-banner.svg" alt="Swiss Premium Insurance — L’assurance, plus claire." width="100%">
+  <img src="https://raw.githubusercontent.com/SwissPremiumInsurance/.github/main/assets/spi-banner.svg?v=2" alt="SPI · Swiss Premium Insurance" width="100%">
 </p>
 
 <p align="center">
